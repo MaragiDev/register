@@ -7,9 +7,9 @@
     },
 
     "record": {
-        "A": ["69.30.249.53"],
-        "MX": ["mail.is-a.dev"],
-        "TXT": ["v=spf1 mx a:mail.is-a.dev ~all"]
+        "A": ["dns1.alwaysdata.com", "dns2.alwaysdata.com"],
+        "MX": ["webmail.alwaysdata.com"],
+        "TXT": ["v=spf1 mx a:webmail.alwaysdata.com ~all"]
     },
 
     "proxied": false
